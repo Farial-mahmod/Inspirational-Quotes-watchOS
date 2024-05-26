@@ -1,5 +1,5 @@
-# Inspirational-Quotes-watchOS
-A watchOS app for displaying inspirational quotes asynchronously over the internet with a responsive view.
+# Inspirational Quotes watchOS App
+A watchOS app for displaying inspirational quotes asynchronously over the internet with a responsive yet simple view.
 
 ## Technologies Used:
 1. watchOS
